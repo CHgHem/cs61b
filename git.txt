@@ -1,1 +1,3 @@
-git pull skeleton master -allow-unrelated-histories
+更新仓库:git pull skeleton master -allow-unrelated-histories
+添加远程仓库: git remote add <shortname> <url>
+充命名远程仓库 git remote rename oddname newname
